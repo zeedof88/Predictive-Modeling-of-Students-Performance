@@ -1,0 +1,3 @@
+The Student Performance Dataset is a dataset designed to examine the factors influencing academic student performance. The dataset consists of 10,000 student records, with each record containing information about various predictors and a performance index. The dataset aims to provide insights into the relationship between the predictor variables and the performance index, and i want to use this dataset to explore the impact of studying hours, previous scores, extracurricular activities, sleep hours, and sample question papers on student performance.
+
+Dataset source link: https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression/data
